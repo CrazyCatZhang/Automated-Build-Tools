@@ -1,0 +1,14 @@
+{
+  "curly": true,
+  "eqnull": true,
+  "eqeqeq": true,
+  "undef": true,
+  "asi": false,
+  "globals": {
+    "jQuery": true,
+    "console": true,
+    "module": true,
+    "require": true,
+    "define": true
+  }
+}
