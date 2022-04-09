@@ -76,3 +76,4 @@ fabric.properties
 .idea/modules.xml
 .idea/vcs.xml
 .idea/watcherTasks.xml
+/Grunt/node_modules/
